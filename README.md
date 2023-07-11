@@ -1,7 +1,3 @@
-# snappycode README
-
-This is the README for your extension "snappycode". After writing up a brief description, we recommend including the following sections.
-
 ## Features
 
 SnappyCode offers the following features:
